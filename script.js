@@ -32,7 +32,7 @@ function cdc(){
 }
 
 function seconnecter2()
-{window.location.href="Identification.html"}
+{window.location.href="identification.html"}
 
 function login(){
     var login=document.getElementById("t1").value;
@@ -57,4 +57,5 @@ function seconnecter3() {
 }
 
 function td1()
+
 {window.location.href="tableau.html"}
